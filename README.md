@@ -33,8 +33,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 Feel free to reach out if you have any questions or feedback:
-- **Email:** [your-email@example.com](sayujpillai63@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sayuj-pillai-139a07315)
+- **Email:** [sayujpillai63@gmail.com](sayujpillai63@gmail.com)
+- **LinkedIn:** [SayujPillai](https://www.linkedin.com/in/sayuj-pillai-139a07315)
 
 ---
 Sayuj Pillai
